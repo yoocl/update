@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+        <plist version="1.0">
+            <dict>
+                <key>items</key>
+                <array>
+                    <dict>
+                        <key>assets</key>
+                        <array>
+                            <dict>
+                                <key>kind</key>
+                                <string>software-package</string>
+                                <key>url</key>
+                                <string>http://qd.leaderhero.com/qd/pandahelper/20181102/tbtui_zb_iPhone_v1.0.7_18110212.ipa</string>
+                            </dict>
+                            <dict>
+                                <key>kind</key>
+                                <string>display-image</string>
+                                <key>needs-shine</key>
+                                <true/>
+                                <key>url</key>
+                                <string>http://ae85.cn/wf/xl.png</string>
+                            </dict>
+                        </array>
+                        <key>metadata</key>
+                        <dict>
+                            <key>bundle-identifier</key>
+                            <string>com.pandahelper.free.6Z99FT2VD6.0814141538</string>
+                            <key>bundle-version</key>
+                            <string>1.0.6</string>
+                            <key>kind</key>
+                            <string>software</string>
+                            <key>title</key>
+                            <string> 
+ ❬Panda Helper❭ 
+ 🔥iPhone 8、小良🔥</string>
+                        </dict>
+                    </dict>
+                </array>
+            </dict>
+        </plist>
